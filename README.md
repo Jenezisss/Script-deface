@@ -1,2 +1,2 @@
-# Script-deface
-Script 𝘑𝘦𝘯𝘦𝘻𝘪𝘴
+# script-deface-creator
+Script deface creator by Ubaii ID
